@@ -1,0 +1,19 @@
+.logo{
+    display: flex;
+    flex-wrap: inherit;
+    background-color: black;
+    height: 200px;
+    width: 200px;
+
+
+}
+.text{
+    background-color: black;
+    font-display: swap;
+    color: rgba(255, 0, 0, 0.934);
+  font-size: 45px;
+    height: 100px;
+    width: 300px;
+    align-self: calc(40);
+
+}
